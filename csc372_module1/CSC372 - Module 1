@@ -30,6 +30,7 @@ Methods:
 	processWithdrawal() - will display a negative balance that includes a $30 overdraft fee and
 		denotes that a fee has been assessed
 	displayAccount() - should display all superclass attributes and provide an additional interest rate
+
 Ensure that your program has the two required classes and a test class.
 
 Place each Java class into a separate Java source file.
